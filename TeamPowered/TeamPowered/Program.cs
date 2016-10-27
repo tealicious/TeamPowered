@@ -11,7 +11,7 @@ namespace TeamPowered
         static void Main(string[] args)
         {
             var teams = LoadTeams();
-            var people = LoadPeople();
+            var people = LoadPersons();
         }
     }
 }
